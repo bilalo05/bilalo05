@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @bilalo05
-- 👀 I’m interested in frontend web developement and android developement 
-- 🌱 I’m currently working with React and nodeJs
-- 💞️ I’m looking to collaborate on team projects that can increase my developement skills in one side and my teamwork skill from the other hand . 
-- 📫 How to reach me  email: bilal.yahia1994@gmail.com , 
+# Hi, I'm Bilal 👋
 
-<!---
-bilalo05/bilalo05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer with experience in web, mobile, and enterprise application development.
+
+## About Me
+
+* 💻 Passionate about Software Engineering, Full-Stack Development, and DevOps
+* 📱 Experienced in web and Android application development
+* 🌱 Currently expanding my expertise in React, Node.js, Docker, Kubernetes, CI/CD, and Cloud Technologies
+* 🤝 Interested in collaborating on challenging projects and contributing to development teams
+* 🚀 Focused on building scalable, maintainable, and production-ready software solutions
+
+## Technologies
+
+* Frontend: React, JavaScript, TypeScript, HTML, CSS
+* Backend: Node.js, PHP, Java, Java EE
+* Mobile: Android, .NET MAUI
+* Database: MySQL
+* Tools: Git, GitHub, XAMPP
+* Learning: Docker, Kubernetes, DevOps Practices
+
+## Contact
+
+📧 [bilal.yahia1994@gmail.com](mailto:bilal.yahia1994@gmail.com)
